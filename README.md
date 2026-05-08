@@ -80,7 +80,7 @@ Completed an internship program at **Biznet**, one of Indonesia's leading intern
 
 Feel free to reach out:
 
-- 📧 Email: `[ahmadmuqbil87@gmail.com]`
+- 📧 Email: [ahmadmuqbil87@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/akhmad-muqbil ]
 - 📍 Location: Lombok, Indonesia
 
