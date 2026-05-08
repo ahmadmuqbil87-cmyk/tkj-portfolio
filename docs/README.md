@@ -1,6 +1,6 @@
 # Documentation - Biznet Internship
 ### Fiber Optic Installation ###
-![Fiber Optic installation](./Fiber-optic-installation.jpg)
+![Fiber Optic installation](./docs/Fiber-optic-instalation.jpg)
 
 ### Ping Test ###
 ![ping test](./ping-test.jpg)
